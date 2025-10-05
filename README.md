@@ -5,6 +5,13 @@
 
 > Repository: [gauravkumar2424/optimization-journal](https://github.com/gauravkumar2424/optimization-journal)
 
+
+
+<img width="1673" height="888" alt="image" src="https://github.com/user-attachments/assets/ecd45b2f-774d-48bb-a655-ae3e1d384f36" />
+
+
+
+
 ## Project Overview
 
 This repository is focused on the study and practical implementation of mathematical optimization techniques, specifically **Linear Programming Problems (LPP)** and **Nonlinear Optimization (NLO)**.  
