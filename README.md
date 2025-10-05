@@ -43,7 +43,7 @@ To use the materials in this repository:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/gauravkumar2424/optimization-journal.git
+   git clone https://github.com/gauravkumar2424/optimization-journal
    ```
 2. **Install Python 3.10 or later.**
 3. **Install required packages** for each script (see script headers for details, commonly: `pip install pulp scipy numpy`).
